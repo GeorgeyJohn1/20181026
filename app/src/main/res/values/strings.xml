@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYC School</string>
+    <string name="borough">Borough</string>
+    <string name="sat_takers">SAT Takers</string>
+    <string name="sat_math">SAT Math</string>
+    <string name="sat_reading">SAT Reading</string>
+    <string name="sat_writing">SAT Writing</string>
+</resources>
